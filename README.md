@@ -12,7 +12,5 @@ This project is a lightweight, Python-based chatbot that connects with the **Cum
 - ⚙️ Modular Python codebase designed for extensibility
 - 🛡️ Environment variables handled via `.env` file (excluded from repo)
 
----
 
-## 📂 Project Structure
 
